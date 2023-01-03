@@ -1,0 +1,17 @@
+stratégiques
+- Est-ce que l'ERP sait gerer les transactions sur plusieurs machines distance ?
+- Est-ce que l'ERP peut supporter l'ouverture à l'international ?
+
+Fonctionnels
+- Est-ce que l'ERP sait affiché les archives en ligne ?
+- Est-ce que l'ERP utilise nativement le plan comptable marocain ?
+- Est-ce que BusinessObject est nativement connecté dans SAP ?
+- Est-ce que l'ERP peut imprimer 2 devises dans une seule facture ?
+
+Technologiques :
+- Est-ce que l'ERP tourne s'installe sur unix ?
+- Est ce que l'ERP codé avec java ?
+- Est ce que l'ERP utilise oracle 11g ?
+
+Méthodologique :
+- 
